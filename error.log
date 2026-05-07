@@ -1,0 +1,33 @@
+[2026-05-02T15:40:48.716Z] ⛔ CRITICAL STOP → Invalid column name 'eventbriteID'.
+[2026-05-02T15:55:16.541Z] ⛔ CRITICAL STOP → Invalid object name 'event_1'.
+[2026-05-02T17:36:10.119Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-02T17:36:10.945Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-02T17:36:11.753Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-02T17:36:12.566Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-02T17:36:13.380Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-02T17:36:14.195Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-03T01:46:00.312Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-03T01:46:01.213Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-03T01:46:02.044Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:16.902Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → timeout of 15000ms exceeded
+[2026-05-04T05:57:28.848Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:29.666Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:30.480Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:31.298Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:32.116Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:32.932Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:33.748Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:34.563Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:35.380Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:36.198Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:37.014Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:37.830Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T05:57:38.647Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T08:17:34.610Z] ⚠️ Ticket Token1 error (MI5IZ27IXYC6EW5W4UYM) → read ECONNRESET
+[2026-05-04T08:31:23.135Z] ⚠️ Ticket Token1 error (MI5IZ27IXYC6EW5W4UYM) → read ECONNRESET
+[2026-05-04T08:31:24.213Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T08:31:25.024Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → getaddrinfo ENOTFOUND www.eventbriteapi.com
+[2026-05-04T11:53:14.016Z] ⚠️ Ticket Token1 error (MI5IZ27IXYC6EW5W4UYM) → timeout of 15000ms exceeded
+[2026-05-04T11:53:50.583Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → timeout of 15000ms exceeded
+[2026-05-04T11:54:06.390Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → timeout of 15000ms exceeded
+[2026-05-04T11:54:22.215Z] ⚠️ Token1 error (UEAPNDGH73JXYRUGM2CK) → timeout of 15000ms exceeded
